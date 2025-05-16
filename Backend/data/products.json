@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Early Bird",
+      "description": "Grown on the lush slopes of Colombia's highlands, Early Bird delivers a smooth and mellow experience. With flavors of caramel, honey, and subtle citrus, this coffee invites you to slow down and savor every moment. Our beans are handpicked and sun-dried to lock in their natural sweetness, offering a perfect balance of bright acidity and a creamy finish.",
+      "price": 139,
+      "image": "https://images.unsplash.com/photo-1599637777203-34ac21aa929b?q=80&w=1988&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 8,
+      "roast": 2
+    },
+    {
+      "id": 2,
+      "name": "Boldly Go",
+      "description": "Harvested from the volcanic soils of Indonesia, Boldly Go is a rich, full-bodied coffee with deep earthy tones and hints of tobacco, molasses, and dark cocoa. This brew is perfect for those who enjoy a robust cup that lingers on the palate. Ideal for morning rituals or contemplative afternoons, Boldly Go will transport you to the tranquil islands of the Pacific with every sip.",
+      "price": 159,
+      "image": "https://images.unsplash.com/photo-1542238060-3d3fc9856473?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 10,
+      "roast": 3
+    },
+    {
+      "id": 3,
+      "name": "La Cabra",
+      "description": "Sourced from the misty mountains of Ethiopia, La Cabra captivates with its bold yet balanced flavor profile, boasting notes of dark chocolate and wild berries. Each sip is a journey through time, a celebration of the cultural significance of coffee in Ethiopian society. Crafted with reverence by our master roasters, The Buna represents a harmonious blend of tradition and innovation. From the sun-drenched hillsides to the bustling markets of Addis Ababa, we honor the legacy of Ethiopian coffee with every carefully curated batch.",
+      "price": 149,
+      "image": "https://images.unsplash.com/photo-1627436381099-72af9692894f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 4,
+      "roast": 5
+    },
+    {
+      "id": 4,
+      "name": "Onyx",
+      "description": "A tropical paradise in a cup, Onyx is a blend of Costa Rican beans that combine fruity undertones with a delicate floral finish. Notes of juicy mango, bright pineapple, and fragrant jasmine are wrapped in a medium body, creating a delightful and refreshing brew. Perfect for warm summer mornings or iced coffee fans, Onyx will take you to the sunny shores of Central America with every sip.",
+      "price": 129,
+      "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 15,
+      "roast": 4
+    },
+    {
+      "id": 5,
+      "name": "Devans",
+      "description": "From the dense rainforests of Sumatra comes Devans, a dark roast coffee that is smoky and intense. It features bold flavors of black pepper, clove, and dark chocolate, with a syrupy texture that coats the palate. This coffee is perfect for those who love a bold, complex cup with a mysterious edge, offering a rich taste that lingers long after the last sip.",
+      "price": 169,
+      "image": "https://images.unsplash.com/photo-1708961352625-82e59dd0c0af?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 6,
+      "roast": 1
+    },
+    {
+      "id": 6,
+      "name": "Cultivate",
+      "description": "Start your day with the bright and balanced Cultivate. This medium roast coffee features lively notes of apple, toasted almond, and a hint of vanilla. Sourced from small farms nestled in the Guatemalan highlands, every batch is expertly roasted to bring out the full potential of these premium beans. Perfect for an easy morning cup or a relaxing afternoon break, Culitvate is sunshine in a mug.",
+      "price": 139,
+      "image": "https://images.unsplash.com/photo-1642437271884-fe1d3393eef9?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 12,
+      "roast": 2
+    },
+    {
+      "id": 7,
+      "name": "Yellow Catuai",
+      "description": "Yellow Catuai is a vibrant, sun-kissed variety from Brazil, known for its smooth body and lively flavors. This medium roast coffee offers a delightful balance of sweetness and acidity, with notes of ripe tropical fruit, honey, and a subtle hint of toasted hazelnut. Cultivated in the lush valleys of Brazil's coffee heartlands, each bean is carefully processed to retain its bright, clean finish. Perfect for those who enjoy a refreshing and fruity coffee experience, Yellow Catuai will brighten your day with every sip.",
+      "price": 159,
+      "image": "https://images.unsplash.com/photo-1593084264959-d8297ea0725c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stock": 9,
+      "roast": 3
+    }
+  ]
+}

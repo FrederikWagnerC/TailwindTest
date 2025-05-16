@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inika:wght@400;700&family=Licorice&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --color-black-light: #1e1e1e;
+    --color-grey-light: #efefef;
+    --color-black: #111111;
+    --color-brown-dark: #4f2919;
+    --color-orange: #b46538;
+    --color-brown-light: #7a4c20;
+    --color-grey: #e6e6e6;
+    --font-licorice: 'Licorice';
+    --font-inika: 'Inaka';
+}
+
+@layer base {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Inaka;
+    }
+
+    h1 {
+        font-family: Licorice;
+        font-weight: 100;
+    }
+}
